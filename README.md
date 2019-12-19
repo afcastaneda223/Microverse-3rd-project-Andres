@@ -24,11 +24,12 @@ Replicating Youtube video page appearance by using HTML & CSS.
 - Twitter: [@afcastaneda](https://twitter.com/afcastaneda)
 - Linkedin: [Andres Felipe Castañeda](www.linkedin.com/in/andres-castaneda223)
 
-👤 **
+👤 **Francis Mtambo**
 
-- Github: 
-- Twitter: 
-- Linkedin: 
+- Github: [@FrancisMtambo](https://github.com/FrancisMtambo)
+- Twitter: []()
+- Linkedin: []()
+
 
 ## Show your support
 
