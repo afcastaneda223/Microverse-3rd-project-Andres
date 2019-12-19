@@ -1,0 +1,14 @@
+/* RESET WEBPAGE TO DEFAULT CSS */
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: inherit;
+}
+
+/* STYLING NAV BAR ELEMENTS*/
+.nav-bar {
+ position: fixed;
+ width: 100%;
+ height: 50px;
+ border-bottom: 1px solid black;
+}
