@@ -1,10 +1,10 @@
 # HTML forms
 
-> This is the second project of the Microverse.
+> This is the third project of the Microverse.
 
-![screenshot](./app_screenshot.png)
+![screenshot]()
 
-Replicating Youtube video page appearance by using HTML & CSS.
+Positioning and floating elements.
 
 ## Built With
 
@@ -13,8 +13,7 @@ Replicating Youtube video page appearance by using HTML & CSS.
 
 ## GitHub Repo
 
--
-
+https://github.com/afcastaneda223/Microverse-3rd-project-Francis-Andres
 
 ## Authors
 
@@ -27,8 +26,8 @@ Replicating Youtube video page appearance by using HTML & CSS.
 👤 **Francis Mtambo**
 
 - Github: [@FrancisMtambo](https://github.com/FrancisMtambo)
-- Twitter: []()test
-- Linkedin: []()
+- Twitter: [@fmtambo](https://twitter.com/fmtambo)
+- Linkedin: [@francismtambo](https://www.linkedin.com/in/francismtambo/)
 
 
 ## Show your support
