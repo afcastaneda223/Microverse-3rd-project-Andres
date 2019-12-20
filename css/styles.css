@@ -110,12 +110,55 @@
   float: right;
 }
 
+
 .main-text p{
-  display: block;
   width: 50%;
   text-align: left;
   margin-left:25%;
   font-size: 25px;
-  margin-bottom: 13px;
+  margin-bottom: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.side{
+  width: 11%;
+  text-align: left;
+  float: right;
+  color: #333333;
+  margin-right: 120px;
+}
+.side p{
+  font-size: 15px;
+  display: contents;
+
+}
+.side button{
+  width: 120px;
+  margin-top: 10px;
+}
+
+
+.side-two{
+  width: 15%;
+  text-align: left;
+  float: right;
+  color: #333333;
+  margin-right: 70px;
+}
+.side-two p{
+  font-size: 15px;
+  display: contents;
+
+}
+
+.side-two img{
+  width: 80px;
+}
+
+.separator{
+  left:20px
+}
+
+.second-image{
+  width:70%
 }
