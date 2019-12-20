@@ -59,29 +59,63 @@
   padding-top: 80px;
   text-align: center;
 }
-
-.space-satelite, .caption {
-  width: 70%;
- 
+.main-image h1{
+  text-align: initial;
+  display: inline-block;
+  margin-right: 180px;
+  font-size: 34px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.main-image {
+.main-image img{
+  width: 85%;
+  left: 5%;
   padding-top: 20px;
-  align-content: left;
-  left: 15%;
 }
 
-p {
+.main-image p{
+  align-content: left;
+  left: -7.5%;
+  width: 70%;
+  font-size: 16px;
+  color: #666666;
   text-align: left;
   display: inline-block;
   position: relative;
-
+  margin-bottom: 40px;
 }
 
 .story {
-  width: 60%;
-  align-items: center;
-  padding-top: 20px;
+  width: 50%;
+  display: inline-block;
+  color: #333333;
+  margin-bottom: 40px;
+}
+
+.story h1{
+  text-align: left;
+  position: relative;
+  font-size: 18px;
+  margin-bottom: -20px;
+}
+.story h2{
+  width: 200px;
+  font-size: 12px;
   text-align: left;
 
+}
+
+.story img{
+  width: 70%;
+  float: right;
+}
+
+.main-text p{
+  display: block;
+  width: 50%;
+  text-align: left;
+  margin-left:25%;
+  font-size: 25px;
+  margin-bottom: 13px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
