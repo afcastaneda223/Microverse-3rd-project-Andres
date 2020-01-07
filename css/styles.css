@@ -55,7 +55,7 @@
     cursor: pointer;
   }
 
-  .main-container {
+.main-container {
   padding-top: 80px;
   text-align: center;
 }
@@ -84,6 +84,9 @@ figcaption{
   display: inline-block;
   position: relative;
   margin-bottom: 40px;
+}
+figcaption h2{
+  color: black;
 }
 
 .story {
@@ -161,6 +164,20 @@ figcaption{
   left:20px
 }
 
-.second-image{
-  width:70%
+
+.second-image img{
+  width:70%;
+  margin-top: -30px;
+  display: block;
+}
+
+.second-image figcaption{
+  width:70%;
+  left:0%
+}
+.second-image p{
+  width: 19%;
+  font-size: 15px;
+  position: absolute;
+  top:80px;
 }
