@@ -164,20 +164,81 @@ figcaption h2{
   left:20px
 }
 
-
-.second-image img{
+.second-image{
+  position: relative;
+  display: inline-block;
   width:70%;
-  margin-top: -30px;
-  display: block;
+  margin-bottom: 60px;
+}
+.second-image img{
+  width: 100%;
 }
 
 .second-image figcaption{
-  width:70%;
+  width:auto;
   left:0%
 }
+
 .second-image p{
-  width: 19%;
-  font-size: 15px;
+  font-size: 12px;
+  width: 17%;
+  margin-bottom: 20px;
+}
+.parag1{
+  top:33%;
+  left:-33%;
   position: absolute;
-  top:80px;
+}
+
+.parag2{
+  top:33%;
+  right: -10%;
+  position: absolute;
+}
+
+.parag3{
+  top:33%;
+  right: -50%;
+  position: absolute;
+}
+
+.parag4{
+  top:33%;
+  right:-800px;
+  left:430px;
+  position: absolute;
+}
+.parag5{
+  top:73%;
+  left:-33%;
+  position: absolute;
+}
+.parag6{
+  top:73%;
+  right: -10%;
+  position: absolute;
+}
+
+.parag7{
+  top:73%;
+  right: -45%;
+  left:20%;
+  position: absolute;
+}
+
+.parag8{
+  top:73%;
+  right:-800px;
+  left:430px;
+  position: absolute;
+}
+
+hr{
+  position: absolute;
+  width: 8%;
+  border-width: 1px;
+}
+.parag9{
+  text-align: left;
+  margin-top: 30px;
 }
