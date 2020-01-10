@@ -135,7 +135,7 @@ figcaption h2 {
   font-size: 12px;
 }
 
-.side p {
+.side a {
   font-size: 15px;
   display: contents;
 }
@@ -154,7 +154,7 @@ figcaption h2 {
   font-size: 13px;
 }
 
-.side-two p {
+.side-two a {
   font-size: 12px;
   display: contents;
 }
@@ -348,7 +348,7 @@ iframe {
   position: relative;
 }
 
-.left2 p {
+.left2 a {
   font-size: 18px;
   font-weight: 700;
 }
