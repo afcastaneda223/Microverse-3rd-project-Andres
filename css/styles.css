@@ -50,8 +50,8 @@ a {
 }
 
 .right {
-  position: absolute;
-  left: 85%;
+  position: relative;
+  left: 80%;
   top: 10px;
   cursor: pointer;
 }
@@ -323,116 +323,90 @@ iframe {
 .left2 {
   border-top: 1px solid black;
   width: 65%;
-  position: absolute;
+  position: relative;
+  display: inline-block;
 }
 
-.left2 img {
+.left2-img-group1 img {
   width: 30%;
   margin-top: 20px;
-  margin-right: 3%;
+  padding-right: 2%;
+  position: relative;
+  display: inline-block;
 }
 
-.leftp h3 {
-  font-size: 11px;
+.left2 h3 {
+  font-size: 9px;
   color: #666;
   position: relative;
   text-align: right;
 }
 
-.leftp h4 {
-  font-size: 15px;
+.left2 h4 {
+  font-size: 13px;
   color: #666;
   position: relative;
 }
 
-.leftp p {
-  font-size: 20px;
+.left2 p {
+  font-size: 18px;
   font-weight: 700;
 }
 
-.leftp1 {
-  top: 240px;
-  width: 19%;
-  position: absolute;
-}
-
-.leftp2 {
-  top: 240px;
-  width: 19%;
-  left: 22%;
-  position: absolute;
-}
-
-.leftp3 {
-  top: 240px;
-  width: 19%;
-  left: 44%;
-  position: absolute;
-}
-
-.left3 {
-  width: 65%;
-  margin-top: 30%;
-  position: absolute;
-}
-
-.left3 img {
+.left2-p-1 {
   width: 30%;
-  margin-right: 3%;
-  padding-bottom: 30px;
+  position: relative;
+  display: inline-block;
 }
 
-.leftp4 {
-  top: 560px;
-  width: 19%;
-  position: absolute;
+.left2-p-2 {
+  width: 30%;
+  left: 2%;
+  position: relative;
+  display: inline-block;
 }
 
-.leftp5 {
-  top: 560px;
-  width: 20%;
-  left: 22%;
-  position: absolute;
+.left2-p-3 {
+  width: 30%;
+  left: 3%;
+  position: relative;
+  display: inline-block;
 }
 
-.leftp6 {
-  top: 560px;
-  width: 19%;
-  left: 44%;
-  position: absolute;
-}
-
-.left4 {
+.left2-img-group2 h2 {
   border-top: 1px solid black;
-  width: 65%;
-  margin-top: 53%;
-  position: absolute;
+  padding-top: 15px;
 }
 
-.left4 img {
+.left2-img-group2 img {
   width: 30%;
-  margin-right: 3%;
-  padding-bottom: 50px;
+  margin-top: 20px;
+  padding-right: 2%;
+  position: relative;
+  display: inline-block;
 }
 
-.leftp7 {
-  top: 920px;
-  width: 19%;
-  position: absolute;
+.left2-p-4 {
+  width: 30%;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 5%;
 }
 
-.leftp8 {
-  top: 920px;
-  width: 20%;
-  left: 22%;
-  position: absolute;
+.left2-p-5 {
+  width: 31%;
+  left: 2%;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 5%;
 }
 
-.leftp9 {
-  top: 920px;
-  width: 19%;
-  left: 44%;
-  position: absolute;
+.left2-p-6 {
+  width: 30%;
+  left: 3%;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 5%;
 }
 
 .list {
