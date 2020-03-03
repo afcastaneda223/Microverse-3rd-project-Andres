@@ -2,7 +2,13 @@
 
 > This is the third project of the Microverse.
 
-https://raw.githack.com/afcastaneda223/Microverse-3rd-project-Francis-Andres/POSITIONING-AND-FLOATING-ELEMENTS-1ST-BRANCH/index.html
+![screenshot](./assets/screenshot.png)
+
+## Live link
+
+https://raw.githack.com/afcastaneda223/Microverse-3rd-project-Andres/master/index.html
+
+
 
 Positioning and floating elements.
 
@@ -13,7 +19,7 @@ Positioning and floating elements.
 
 ## GitHub Repo
 
-https://github.com/afcastaneda223/Microverse-3rd-project-Francis-Andres
+https://github.com/afcastaneda223/Microverse-3rd-project-Andres
 
 ## Authors
 
