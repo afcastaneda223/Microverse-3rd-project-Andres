@@ -117,7 +117,7 @@ figcaption h2 {
 }
 
 .main-text p {
-  width: 50%;
+  max-width: 50%;
   text-align: left;
   margin-left: 25%;
   font-size: 25px;
